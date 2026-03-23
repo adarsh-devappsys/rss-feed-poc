@@ -4,6 +4,32 @@
     "https://hnrss.org/best",
     "https://dev.to/feed",
     "https://pypi.org/rss/updates.xml",
-    "https://github.blog/feed/"
+    "https://github.blog/feed/",
+
+    "https://edpb.europa.eu/feed/news_en",
+    "https://www.efdpo.eu/feed/",
+    "https://privacyinternational.org/rss",
+    "https://privacymatters.dlapiper.com/feed/",
+    "https://www.globalprivacyblog.com/feed/",
+    "https://seersco.com/blogs/feed/",
+
+    "https://www.hipaajournal.com/feed/",
+    "https://hipaaclicks.com/feed/",
+    "https://www.federalregister.gov/documents/search.atom?conditions%5Btopic%5D=medical-privacy-hipaa-",
+    "https://hipaahealthlaw.foxrothschild.com/feed/",
+    "https://totalhipaa.com/feed/",
+
+    "https://iapp.org/rss/daily-dashboard",
+    "https://iapp.org/rss/privacy-tracker/",
+    "https://www.mondaq.com/rss/Technology/India",
+
+    "https://www.gtlaw-dataprivacydish.com/feed/",
+    "https://www.bytebacklaw.com/feed/",
+    "https://www.privado.ai/feed",
+
+    "https://iapp.org/rss/united-states-dashboard-digest",
+    "https://teachprivacy.com/feed/",
+    "https://www.lexology.com/Feed/Feed.ashx?TopicId=0c78da92-e45b-4043-a0ea-8e62e2b4f057",
+    "https://www.mintz.com/rss/insights/privacy-security"
   ]
 }
