@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    "https://rsshub.app/github/trending/daily/all",
+    "https://hnrss.org/best",
+    "https://dev.to/feed",
+    "https://pypi.org/rss/updates.xml",
+    "https://github.blog/feed/"
+  ]
+}
