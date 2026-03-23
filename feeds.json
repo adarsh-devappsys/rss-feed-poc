@@ -1,10 +1,5 @@
 {
   "feeds": [
-    "https://hnrss.org/best",
-    "https://dev.to/feed",
-    "https://pypi.org/rss/updates.xml",
-    "https://github.blog/feed/",
-
     "https://edpb.europa.eu/feed/news_en",
     "https://www.efdpo.eu/feed/",
     "https://privacyinternational.org/rss.xml",
